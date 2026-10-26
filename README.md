@@ -20,7 +20,7 @@ Open `index.html` in a browser. No install needed.
 
 ## Live demo
 
-ADD YOUR DEPLOYED LINK HERE (optional)
+https://quiz-beta-murex.vercel.app/
 
 ## Technologies
 
